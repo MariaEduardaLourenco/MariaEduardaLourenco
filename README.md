@@ -1,8 +1,8 @@
 # 👩‍💻 Maria Eduarda Lourenço do Nascimento
 
-**`Técnica em informática | Estágio em TI | Desenvolvedora FullStack`**
+**`Técnica em informática | Estágio em TI | Jovem Aprendiz | Desenvolvedora FullStack`**
 
-Olá! Sou Maria Eduarda Lourenço do Nascimento, recém-formada como Técnica em Informática e em busca da minha **primeira oportunidade de estágio** obrigatório para finalizar minha certificação.
+Olá! Sou Maria Eduarda Lourenço do Nascimento, recém-formada como Técnica em Informática e em busca da minha **primeira oportunidade de estágio** obrigatório para finalizar minha certificação ou **vaga de jovem aprendiz**.
 
 Minha formação me proporcionou uma base sólida em suporte técnico, manutenção de computadores e desenvolvimento web. Ao longo do curso, trabalhei com tecnologias como:
 
@@ -19,7 +19,7 @@ Minha formação me proporcionou uma base sólida em suporte técnico, manutenç
 <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
-Estou motivada para colocar em prática meus conhecimentos. Tenho grande interesse em aprender mais sobre a área de TI e crescer junto com a equipe. Se você procura uma estagiária curiosa e com vontade de aprender, ficarei muito feliz em ser contatada!
+Estou motivada para colocar em prática meus conhecimentos. Tenho grande interesse em aprender mais sobre o mercado de trabalho e crescer junto com a equipe. Se você procura uma estagiária ou aprendiz curiosa, ficarei muito feliz em ser contatada!
 
 ---
 <div name='contatos' style="margin-top: 20px;"> <a href="mailto:mariaedulourenconascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/mariaeduardalourencodonascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
